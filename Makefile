@@ -1,0 +1,2 @@
+test:
+	./mvnw test

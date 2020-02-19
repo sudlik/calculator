@@ -1,4 +1,4 @@
-package org.example.oakfusion;
+package org.sudlik.calculator;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.function.Executable;

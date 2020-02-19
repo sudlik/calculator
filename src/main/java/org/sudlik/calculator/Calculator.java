@@ -1,4 +1,4 @@
-package org.example.oakfusion;
+package org.sudlik.calculator;
 
 import java.util.*;
 import java.util.regex.Matcher;
